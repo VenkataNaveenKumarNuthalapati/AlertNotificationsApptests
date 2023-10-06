@@ -1,0 +1,46 @@
+.success {
+  color: #2dca73;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.success-h1 {
+  color: #2dca73;
+  font-size: 15px;
+}
+.error {
+  color: #ff0b37;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.error-h1 {
+  color: #ff0b37;
+  font-size: 15px;
+}
+.warning {
+  color: #ffb800;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.warning-h1 {
+  color: #ffb800;
+  font-size: 15px;
+}
+.info {
+  color: #0f81e0;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.info-h1 {
+  color: #0f81e0;
+  font-size: 15px;
+}
+.close {
+  color: #64748b;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.noti-flex-conta {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

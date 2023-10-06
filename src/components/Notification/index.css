@@ -1,0 +1,10 @@
+.noti-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  margin-top: 20px;
+  box-shadow: 0 4px 4px black;
+  padding: 20px;
+}
